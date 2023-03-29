@@ -1,0 +1,2465 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 1,
+				"label": "algeria",
+				"x": 1.1333,
+				"y": -0.1699,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Documents": 4.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.1749
+				},
+				"scores": {
+					"Avg. pub. year": 2017.7500,
+					"Avg. citations": 0.7500,
+					"Avg. norm. citations": 0.0437
+				}
+			},
+			{
+				"id": 2,
+				"label": "argentina",
+				"x": -0.8804,
+				"y": -0.2568,
+				"cluster": 2,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 14.0000,
+					"Documents": 4.0000,
+					"Citations": 73.0000,
+					"Norm. citations": 3.7703
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2500,
+					"Avg. citations": 18.2500,
+					"Avg. norm. citations": 0.9426
+				}
+			},
+			{
+				"id": 4,
+				"label": "australia",
+				"x": -0.4841,
+				"y": -0.4656,
+				"cluster": 6,
+				"weights": {
+					"Links": 18.0000,
+					"Total link strength": 46.0000,
+					"Documents": 37.0000,
+					"Citations": 2004.0000,
+					"Norm. citations": 105.9052
+				},
+				"scores": {
+					"Avg. pub. year": 2017.4324,
+					"Avg. citations": 54.1622,
+					"Avg. norm. citations": 2.8623
+				}
+			},
+			{
+				"id": 5,
+				"label": "austria",
+				"x": 0.1844,
+				"y": -0.8861,
+				"cluster": 11,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 20.0000,
+					"Documents": 18.0000,
+					"Citations": 576.0000,
+					"Norm. citations": 25.2879
+				},
+				"scores": {
+					"Avg. pub. year": 2017.3889,
+					"Avg. citations": 32.0000,
+					"Avg. norm. citations": 1.4049
+				}
+			},
+			{
+				"id": 7,
+				"label": "belgium",
+				"x": -0.3236,
+				"y": -0.0808,
+				"cluster": 9,
+				"weights": {
+					"Links": 27.0000,
+					"Total link strength": 45.0000,
+					"Documents": 14.0000,
+					"Citations": 304.0000,
+					"Norm. citations": 14.2539
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2857,
+					"Avg. citations": 21.7143,
+					"Avg. norm. citations": 1.0181
+				}
+			},
+			{
+				"id": 8,
+				"label": "brazil",
+				"x": 0.8989,
+				"y": 0.1096,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 7.0000,
+					"Documents": 19.0000,
+					"Citations": 269.0000,
+					"Norm. citations": 14.1473
+				},
+				"scores": {
+					"Avg. pub. year": 2017.4737,
+					"Avg. citations": 14.1579,
+					"Avg. norm. citations": 0.7446
+				}
+			},
+			{
+				"id": 9,
+				"label": "bulgaria",
+				"x": 0.6690,
+				"y": 0.2353,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 4.0000,
+					"Citations": 24.0000,
+					"Norm. citations": 1.5635
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5000,
+					"Avg. citations": 6.0000,
+					"Avg. norm. citations": 0.3909
+				}
+			},
+			{
+				"id": 10,
+				"label": "canada",
+				"x": -0.0150,
+				"y": -0.4917,
+				"cluster": 6,
+				"weights": {
+					"Links": 19.0000,
+					"Total link strength": 62.0000,
+					"Documents": 32.0000,
+					"Citations": 854.0000,
+					"Norm. citations": 47.2880
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5938,
+					"Avg. citations": 26.6875,
+					"Avg. norm. citations": 1.4778
+				}
+			},
+			{
+				"id": 12,
+				"label": "chile",
+				"x": -1.0895,
+				"y": 1.0215,
+				"cluster": 12,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 2.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 0.6613
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 5.0000,
+					"Avg. norm. citations": 0.3306
+				}
+			},
+			{
+				"id": 13,
+				"label": "china",
+				"x": -0.2457,
+				"y": 0.1292,
+				"cluster": 3,
+				"weights": {
+					"Links": 20.0000,
+					"Total link strength": 57.0000,
+					"Documents": 113.0000,
+					"Citations": 2231.0000,
+					"Norm. citations": 133.6930
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5752,
+					"Avg. citations": 19.7434,
+					"Avg. norm. citations": 1.1831
+				}
+			},
+			{
+				"id": 14,
+				"label": "colombia",
+				"x": 1.1482,
+				"y": 0.4889,
+				"cluster": 10,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 2.0000,
+					"Documents": 6.0000,
+					"Citations": 22.0000,
+					"Norm. citations": 1.2904
+				},
+				"scores": {
+					"Avg. pub. year": 2017.8333,
+					"Avg. citations": 3.6667,
+					"Avg. norm. citations": 0.2151
+				}
+			},
+			{
+				"id": 17,
+				"label": "denmark",
+				"x": 0.7059,
+				"y": 0.1665,
+				"cluster": 1,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 20.0000,
+					"Documents": 8.0000,
+					"Citations": 394.0000,
+					"Norm. citations": 18.5142
+				},
+				"scores": {
+					"Avg. pub. year": 2017.3750,
+					"Avg. citations": 49.2500,
+					"Avg. norm. citations": 2.3143
+				}
+			},
+			{
+				"id": 18,
+				"label": "ecuador",
+				"x": -1.0214,
+				"y": -0.1762,
+				"cluster": 2,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Documents": 4.0000,
+					"Citations": 50.0000,
+					"Norm. citations": 3.1419
+				},
+				"scores": {
+					"Avg. pub. year": 2017.7500,
+					"Avg. citations": 12.5000,
+					"Avg. norm. citations": 0.7855
+				}
+			},
+			{
+				"id": 19,
+				"label": "egypt",
+				"x": -0.3533,
+				"y": 0.8495,
+				"cluster": 5,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 2.0000,
+					"Citations": 49.0000,
+					"Norm. citations": 3.2402
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5000,
+					"Avg. citations": 24.5000,
+					"Avg. norm. citations": 1.6201
+				}
+			},
+			{
+				"id": 20,
+				"label": "finland",
+				"x": 0.3371,
+				"y": -0.0477,
+				"cluster": 4,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 8.0000,
+					"Documents": 6.0000,
+					"Citations": 147.0000,
+					"Norm. citations": 9.0394
+				},
+				"scores": {
+					"Avg. pub. year": 2017.8333,
+					"Avg. citations": 24.5000,
+					"Avg. norm. citations": 1.5066
+				}
+			},
+			{
+				"id": 21,
+				"label": "france",
+				"x": 0.4968,
+				"y": -0.2576,
+				"cluster": 7,
+				"weights": {
+					"Links": 21.0000,
+					"Total link strength": 62.0000,
+					"Documents": 47.0000,
+					"Citations": 905.0000,
+					"Norm. citations": 41.0306
+				},
+				"scores": {
+					"Avg. pub. year": 2017.4043,
+					"Avg. citations": 19.2553,
+					"Avg. norm. citations": 0.8730
+				}
+			},
+			{
+				"id": 22,
+				"label": "germany",
+				"x": -0.1253,
+				"y": -0.0128,
+				"cluster": 5,
+				"weights": {
+					"Links": 29.0000,
+					"Total link strength": 96.0000,
+					"Documents": 102.0000,
+					"Citations": 2416.0000,
+					"Norm. citations": 123.5897
+				},
+				"scores": {
+					"Avg. pub. year": 2017.4412,
+					"Avg. citations": 23.6863,
+					"Avg. norm. citations": 1.2117
+				}
+			},
+			{
+				"id": 23,
+				"label": "greece",
+				"x": -0.4141,
+				"y": -0.1892,
+				"cluster": 2,
+				"weights": {
+					"Links": 17.0000,
+					"Total link strength": 21.0000,
+					"Documents": 16.0000,
+					"Citations": 151.0000,
+					"Norm. citations": 8.7637
+				},
+				"scores": {
+					"Avg. pub. year": 2017.6875,
+					"Avg. citations": 9.4375,
+					"Avg. norm. citations": 0.5477
+				}
+			},
+			{
+				"id": 24,
+				"label": "hong kong",
+				"x": -1.0766,
+				"y": -0.1417,
+				"cluster": 2,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 7.0000,
+					"Documents": 4.0000,
+					"Citations": 58.0000,
+					"Norm. citations": 3.6004
+				},
+				"scores": {
+					"Avg. pub. year": 2017.7500,
+					"Avg. citations": 14.5000,
+					"Avg. norm. citations": 0.9001
+				}
+			},
+			{
+				"id": 25,
+				"label": "hungary",
+				"x": -0.4873,
+				"y": -1.0704,
+				"cluster": 6,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 6.0000,
+					"Citations": 72.0000,
+					"Norm. citations": 4.6436
+				},
+				"scores": {
+					"Avg. pub. year": 2017.6667,
+					"Avg. citations": 12.0000,
+					"Avg. norm. citations": 0.7739
+				}
+			},
+			{
+				"id": 26,
+				"label": "india",
+				"x": 0.2890,
+				"y": 0.0200,
+				"cluster": 4,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 21.0000,
+					"Documents": 36.0000,
+					"Citations": 299.0000,
+					"Norm. citations": 17.1411
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5556,
+					"Avg. citations": 8.3056,
+					"Avg. norm. citations": 0.4761
+				}
+			},
+			{
+				"id": 29,
+				"label": "ireland",
+				"x": -0.2851,
+				"y": 0.7507,
+				"cluster": 5,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 9.0000,
+					"Documents": 11.0000,
+					"Citations": 131.0000,
+					"Norm. citations": 7.4177
+				},
+				"scores": {
+					"Avg. pub. year": 2017.7273,
+					"Avg. citations": 11.9091,
+					"Avg. norm. citations": 0.6743
+				}
+			},
+			{
+				"id": 30,
+				"label": "israel",
+				"x": 0.5374,
+				"y": -0.4265,
+				"cluster": 7,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 3.0000,
+					"Documents": 4.0000,
+					"Citations": 65.0000,
+					"Norm. citations": 3.5231
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5000,
+					"Avg. citations": 16.2500,
+					"Avg. norm. citations": 0.8808
+				}
+			},
+			{
+				"id": 31,
+				"label": "italy",
+				"x": 0.0113,
+				"y": -0.1892,
+				"cluster": 7,
+				"weights": {
+					"Links": 27.0000,
+					"Total link strength": 60.0000,
+					"Documents": 62.0000,
+					"Citations": 864.0000,
+					"Norm. citations": 43.6745
+				},
+				"scores": {
+					"Avg. pub. year": 2017.4032,
+					"Avg. citations": 13.9355,
+					"Avg. norm. citations": 0.7044
+				}
+			},
+			{
+				"id": 32,
+				"label": "japan",
+				"x": -0.4536,
+				"y": 0.5140,
+				"cluster": 3,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 20.0000,
+					"Documents": 27.0000,
+					"Citations": 411.0000,
+					"Norm. citations": 19.0746
+				},
+				"scores": {
+					"Avg. pub. year": 2017.4074,
+					"Avg. citations": 15.2222,
+					"Avg. norm. citations": 0.7065
+				}
+			},
+			{
+				"id": 37,
+				"label": "luxembourg",
+				"x": 1.0909,
+				"y": 0.4586,
+				"cluster": 10,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 9.0000,
+					"Documents": 6.0000,
+					"Citations": 71.0000,
+					"Norm. citations": 3.4266
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5000,
+					"Avg. citations": 11.8333,
+					"Avg. norm. citations": 0.5711
+				}
+			},
+			{
+				"id": 38,
+				"label": "malaysia",
+				"x": 0.9825,
+				"y": 0.0316,
+				"cluster": 1,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 8.0000,
+					"Documents": 4.0000,
+					"Citations": 61.0000,
+					"Norm. citations": 2.7184
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2500,
+					"Avg. citations": 15.2500,
+					"Avg. norm. citations": 0.6796
+				}
+			},
+			{
+				"id": 39,
+				"label": "mexico",
+				"x": -0.7449,
+				"y": -0.3378,
+				"cluster": 2,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Documents": 5.0000,
+					"Citations": 104.0000,
+					"Norm. citations": 5.8437
+				},
+				"scores": {
+					"Avg. pub. year": 2017.8000,
+					"Avg. citations": 20.8000,
+					"Avg. norm. citations": 1.1687
+				}
+			},
+			{
+				"id": 42,
+				"label": "morocco",
+				"x": 0.8428,
+				"y": 0.0962,
+				"cluster": 1,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Documents": 8.0000,
+					"Citations": 80.0000,
+					"Norm. citations": 3.5520
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2500,
+					"Avg. citations": 10.0000,
+					"Avg. norm. citations": 0.4440
+				}
+			},
+			{
+				"id": 45,
+				"label": "netherlands",
+				"x": -0.0088,
+				"y": 0.3308,
+				"cluster": 8,
+				"weights": {
+					"Links": 22.0000,
+					"Total link strength": 41.0000,
+					"Documents": 25.0000,
+					"Citations": 260.0000,
+					"Norm. citations": 11.8611
+				},
+				"scores": {
+					"Avg. pub. year": 2017.4400,
+					"Avg. citations": 10.4000,
+					"Avg. norm. citations": 0.4744
+				}
+			},
+			{
+				"id": 46,
+				"label": "new zealand",
+				"x": -0.7398,
+				"y": -0.3583,
+				"cluster": 2,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 10.0000,
+					"Documents": 5.0000,
+					"Citations": 101.0000,
+					"Norm. citations": 4.3065
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 20.2000,
+					"Avg. norm. citations": 0.8613
+				}
+			},
+			{
+				"id": 49,
+				"label": "norway",
+				"x": 0.7629,
+				"y": 0.1814,
+				"cluster": 1,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 15.0000,
+					"Documents": 9.0000,
+					"Citations": 112.0000,
+					"Norm. citations": 5.8325
+				},
+				"scores": {
+					"Avg. pub. year": 2017.6667,
+					"Avg. citations": 12.4444,
+					"Avg. norm. citations": 0.6481
+				}
+			},
+			{
+				"id": 50,
+				"label": "pakistan",
+				"x": 0.3064,
+				"y": -0.0001,
+				"cluster": 4,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 14.0000,
+					"Documents": 3.0000,
+					"Citations": 56.0000,
+					"Norm. citations": 3.3507
+				},
+				"scores": {
+					"Avg. pub. year": 2017.6667,
+					"Avg. citations": 18.6667,
+					"Avg. norm. citations": 1.1169
+				}
+			},
+			{
+				"id": 51,
+				"label": "poland",
+				"x": -0.4953,
+				"y": -1.0597,
+				"cluster": 6,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 7.0000,
+					"Citations": 100.0000,
+					"Norm. citations": 5.8845
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5714,
+					"Avg. citations": 14.2857,
+					"Avg. norm. citations": 0.8406
+				}
+			},
+			{
+				"id": 52,
+				"label": "portugal",
+				"x": -0.4566,
+				"y": 0.3379,
+				"cluster": 3,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 10.0000,
+					"Documents": 6.0000,
+					"Citations": 82.0000,
+					"Norm. citations": 4.4124
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5000,
+					"Avg. citations": 13.6667,
+					"Avg. norm. citations": 0.7354
+				}
+			},
+			{
+				"id": 54,
+				"label": "russian federation",
+				"x": -0.4260,
+				"y": 0.3959,
+				"cluster": 3,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 10.0000,
+					"Documents": 13.0000,
+					"Citations": 100.0000,
+					"Norm. citations": 5.0624
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5385,
+					"Avg. citations": 7.6923,
+					"Avg. norm. citations": 0.3894
+				}
+			},
+			{
+				"id": 55,
+				"label": "saudi arabia",
+				"x": 1.1518,
+				"y": -0.1354,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Documents": 9.0000,
+					"Citations": 149.0000,
+					"Norm. citations": 6.4236
+				},
+				"scores": {
+					"Avg. pub. year": 2017.3333,
+					"Avg. citations": 16.5556,
+					"Avg. norm. citations": 0.7137
+				}
+			},
+			{
+				"id": 56,
+				"label": "serbia",
+				"x": 0.2109,
+				"y": -1.0161,
+				"cluster": 11,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 4.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.2602
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2500,
+					"Avg. citations": 1.2500,
+					"Avg. norm. citations": 0.0650
+				}
+			},
+			{
+				"id": 57,
+				"label": "singapore",
+				"x": -1.0896,
+				"y": -0.0920,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Documents": 4.0000,
+					"Citations": 263.0000,
+					"Norm. citations": 17.1563
+				},
+				"scores": {
+					"Avg. pub. year": 2017.7500,
+					"Avg. citations": 65.7500,
+					"Avg. norm. citations": 4.2891
+				}
+			},
+			{
+				"id": 58,
+				"label": "slovenia",
+				"x": -0.4852,
+				"y": -0.1297,
+				"cluster": 9,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 3.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 0.6613
+				},
+				"scores": {
+					"Avg. pub. year": 2017.6667,
+					"Avg. citations": 3.3333,
+					"Avg. norm. citations": 0.2204
+				}
+			},
+			{
+				"id": 59,
+				"label": "south africa",
+				"x": 0.2090,
+				"y": -0.0732,
+				"cluster": 4,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 15.0000,
+					"Documents": 5.0000,
+					"Citations": 56.0000,
+					"Norm. citations": 3.3742
+				},
+				"scores": {
+					"Avg. pub. year": 2017.4000,
+					"Avg. citations": 11.2000,
+					"Avg. norm. citations": 0.6748
+				}
+			},
+			{
+				"id": 60,
+				"label": "south korea",
+				"x": -0.3717,
+				"y": 0.8207,
+				"cluster": 5,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 8.0000,
+					"Documents": 17.0000,
+					"Citations": 126.0000,
+					"Norm. citations": 7.0636
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5294,
+					"Avg. citations": 7.4118,
+					"Avg. norm. citations": 0.4155
+				}
+			},
+			{
+				"id": 61,
+				"label": "spain",
+				"x": -0.2058,
+				"y": -0.0495,
+				"cluster": 4,
+				"weights": {
+					"Links": 20.0000,
+					"Total link strength": 53.0000,
+					"Documents": 29.0000,
+					"Citations": 596.0000,
+					"Norm. citations": 36.7335
+				},
+				"scores": {
+					"Avg. pub. year": 2017.4828,
+					"Avg. citations": 20.5517,
+					"Avg. norm. citations": 1.2667
+				}
+			},
+			{
+				"id": 63,
+				"label": "sweden",
+				"x": 0.4076,
+				"y": 0.0186,
+				"cluster": 4,
+				"weights": {
+					"Links": 17.0000,
+					"Total link strength": 24.0000,
+					"Documents": 12.0000,
+					"Citations": 243.0000,
+					"Norm. citations": 14.0722
+				},
+				"scores": {
+					"Avg. pub. year": 2017.4167,
+					"Avg. citations": 20.2500,
+					"Avg. norm. citations": 1.1727
+				}
+			},
+			{
+				"id": 64,
+				"label": "switzerland",
+				"x": 0.3058,
+				"y": 0.1339,
+				"cluster": 1,
+				"weights": {
+					"Links": 17.0000,
+					"Total link strength": 29.0000,
+					"Documents": 12.0000,
+					"Citations": 1099.0000,
+					"Norm. citations": 49.3494
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5833,
+					"Avg. citations": 91.5833,
+					"Avg. norm. citations": 4.1125
+				}
+			},
+			{
+				"id": 65,
+				"label": "taiwan",
+				"x": -0.5591,
+				"y": 0.6067,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 5.0000,
+					"Documents": 9.0000,
+					"Citations": 37.0000,
+					"Norm. citations": 2.0474
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5556,
+					"Avg. citations": 4.1111,
+					"Avg. norm. citations": 0.2275
+				}
+			},
+			{
+				"id": 66,
+				"label": "thailand",
+				"x": -0.4702,
+				"y": 0.4383,
+				"cluster": 3,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 9.0000,
+					"Documents": 3.0000,
+					"Citations": 34.0000,
+					"Norm. citations": 1.4732
+				},
+				"scores": {
+					"Avg. pub. year": 2017.6667,
+					"Avg. citations": 11.3333,
+					"Avg. norm. citations": 0.4911
+				}
+			},
+			{
+				"id": 68,
+				"label": "turkey",
+				"x": -0.0109,
+				"y": 0.6552,
+				"cluster": 8,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 4.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 0.8318
+				},
+				"scores": {
+					"Avg. pub. year": 2017.7500,
+					"Avg. citations": 3.5000,
+					"Avg. norm. citations": 0.2080
+				}
+			},
+			{
+				"id": 70,
+				"label": "united arab emirates",
+				"x": 1.1875,
+				"y": -0.1414,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 4.0000,
+					"Citations": 32.0000,
+					"Norm. citations": 1.7872
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5000,
+					"Avg. citations": 8.0000,
+					"Avg. norm. citations": 0.4468
+				}
+			},
+			{
+				"id": 71,
+				"label": "united kingdom",
+				"x": 0.0332,
+				"y": 0.0505,
+				"cluster": 8,
+				"weights": {
+					"Links": 33.0000,
+					"Total link strength": 127.0000,
+					"Documents": 79.0000,
+					"Citations": 3869.0000,
+					"Norm. citations": 182.3257
+				},
+				"scores": {
+					"Avg. pub. year": 2017.3797,
+					"Avg. citations": 48.9747,
+					"Avg. norm. citations": 2.3079
+				}
+			},
+			{
+				"id": 72,
+				"label": "united states",
+				"x": -0.2719,
+				"y": 0.2210,
+				"cluster": 12,
+				"weights": {
+					"Links": 41.0000,
+					"Total link strength": 154.0000,
+					"Documents": 189.0000,
+					"Citations": 6070.0000,
+					"Norm. citations": 308.3510
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5132,
+					"Avg. citations": 32.1164,
+					"Avg. norm. citations": 1.6315
+				}
+			},
+			{
+				"id": 74,
+				"label": "venezuela",
+				"x": -0.7308,
+				"y": -0.3329,
+				"cluster": 2,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 11.0000,
+					"Documents": 2.0000,
+					"Citations": 62.0000,
+					"Norm. citations": 2.6436
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 31.0000,
+					"Avg. norm. citations": 1.3218
+				}
+			},
+			{
+				"id": 75,
+				"label": "viet nam",
+				"x": 0.4188,
+				"y": -0.4742,
+				"cluster": 7,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 3.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.6761
+				},
+				"scores": {
+					"Avg. pub. year": 2017.6667,
+					"Avg. citations": 4.0000,
+					"Avg. norm. citations": 0.2254
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 1,
+				"target_id": 21,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 55,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 4,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 7,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 18,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 31,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 61,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 71,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 72,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 74,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 5,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 7,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 10,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 13,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 21,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 22,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 31,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 32,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 46,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 61,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 64,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 71,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 72,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 74,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 7,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 10,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 21,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 31,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 45,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 71,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 72,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 10,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 13,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 21,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 22,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 31,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 32,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 45,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 58,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 61,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 66,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 71,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 72,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 74,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 17,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 71,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 13,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 21,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 22,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 23,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 25,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 26,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 31,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 45,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 55,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 61,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 71,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 72,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 21,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 22,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 31,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 32,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 55,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 61,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 65,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 66,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 71,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 72,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 37,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 31,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 32,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 49,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 61,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 71,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 72,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 61,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 60,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 21,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 31,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 63,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 71,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 22,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 30,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 31,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 45,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 61,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 64,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 71,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 72,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 26,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 29,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 31,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 32,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 37,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 45,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 59,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 60,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 61,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 63,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 64,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 71,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 72,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 74,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 31,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 61,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 71,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 72,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 74,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 72,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 31,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 61,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 63,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 71,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 72,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 31,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 61,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 71,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 72,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 50,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 61,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 71,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 72,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 74,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 60,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 65,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 66,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 71,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 72,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 55,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 71,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 71,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 74,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 71,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 60,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 61,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 66,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 68,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 71,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 72,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 71,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 74,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 71,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 61,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 71,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 66,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 71,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 54,
+				"target_id": 66,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 54,
+				"target_id": 71,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 54,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 70,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 57,
+				"target_id": 72,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 61,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 71,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 60,
+				"target_id": 72,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 71,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 72,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 71,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 72,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 71,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 72,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 72,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 66,
+				"target_id": 71,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 66,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 68,
+				"target_id": 71,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 68,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 71,
+				"target_id": 72,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 71,
+				"target_id": 74,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 72,
+				"target_id": 74,
+				"strength": 1.0000
+			}
+		]
+	}
+}
